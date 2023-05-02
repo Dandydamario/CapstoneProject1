@@ -1,6 +1,6 @@
 Aplikasi Find My Contact
 
-Aplikasi Find My Contact adalah sebuah aplikasi sederhana untuk mencatat informasi kontak seseorang, seperti nama, nomor telepon, dan alamat email. Aplikasi ini menggunakan metode CRUD (Create, Read, Update, Delete) untuk mengelola data kontak.
+Aplikasi Find My Contact adalah sebuah aplikasi sederhana untuk mencatat informasi kontak seseorang, seperti nama, nomor telepon, dan region. Aplikasi ini menggunakan metode CRUD (Create, Read, Update, Delete) untuk mengelola data kontak.
 
 Fitur
 Aplikasi ini memiliki fitur-fitur sebagai berikut:
